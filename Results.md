@@ -155,7 +155,6 @@ So do **not** rely on collected numbers unless you carefully read through all th
 | [RockPro64](http://ix.io/2sZH) | 2010/1510 MHz | 5.4 | Focal arm64 | 6920 | 397740 | 1145300 | 3700 | 8430 | 11.55 |
 | [RockPro64](http://ix.io/2yIx) | 2010/1510 MHz | 5.8 | Bullseye arm64 | 7000 | 369820 | 1144950 | 3690 | 8360 | 11.08 |
 | [Star64](http://ix.io/4a3s) | 1750 MHz | 5.15 | Sid riscv64 | 4820 | 26590 | 28970 | 1170 | 1120 | - |
-| [StarFive VisionFive V2](http://ix.io/4dsX) | 1250 MHz | 5.15 | Sid riscv64 | 3470 | 6530 | 5680 | 830 | 790 | - |
 | [SBC2D70 (SSD202D)](http://ix.io/3N1U) | 1700 MHz | 5.16 | Sid armhf | 1960 | 26240 | 33120 | 770 | 3190 | - |
 | [Qualcomm QRB5165](http://ix.io/49kx) | 2840/2410/1790 MHz | 4.19 | Focal arm64 | 18860 | 1125320 | 1598490 | 14470 | 23910 | 25.56 |
 | [T-HEAD C910 RVB-ICE](http://ix.io/41AB) | 1200 MHz | 5.10 | Sid riscv64 | 1760 | 24420 | 26930 | 3340 | 6470 | - |
